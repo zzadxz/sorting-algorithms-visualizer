@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Final_ICS4UE:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Final_ICS4UE_jar</output-path>
+    <root id="archive" name="Final_ICS4UE.jar">
+      <element id="module-output" name="Sorting_Algorithms_Visualizer" />
+    </root>
+  </artifact>
+</component>
