@@ -1,5 +1,5 @@
 /**
- * author @Kyle
+ * author @Kiarash
  * 30 May 2023
  * Project: Sorting Algorithms Visualizer
  */
@@ -9,7 +9,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String args[]) {
-        // make the GUI
         new GUI();
         // make the console app for checking the arrays
         Scanner mysc = new Scanner(System.in);

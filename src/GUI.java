@@ -1,5 +1,5 @@
 /**
- * author @Kyle
+ * author @Kiarash
  * 30 May 2023
  * ICS4UE Final Project: Sorting Algorithms Visualizer
  */
@@ -16,7 +16,7 @@ public class GUI extends JFrame implements ActionListener {
     private int[] array;
 
     public GUI() {
-        this.setTitle("Sorting Algorithms Visualizer by Kyle Sotoudeh");
+        this.setTitle("Sorting Algorithms Visualizer by Kiarash Sotoudeh");
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         this.setLayout(new BorderLayout());
         this.setExtendedState(JFrame.MAXIMIZED_BOTH); // make the app fullscreen

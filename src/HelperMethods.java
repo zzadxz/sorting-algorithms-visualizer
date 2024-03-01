@@ -1,5 +1,5 @@
 /**
- * author @Kyle
+ * author @Kiarash
  * 30 May 2023
  * ICS4UE Final Project: Sorting Algorithms Visualizer
  */
