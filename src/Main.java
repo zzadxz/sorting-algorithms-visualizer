@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         new GUI();
         // make the console app for checking the arrays
         Scanner mysc = new Scanner(System.in);
